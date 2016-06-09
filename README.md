@@ -1,8 +1,8 @@
 # RationalTrigCalc
 
-A calculator for Rational Trigonometry.
+A calculator for Rational Trigonometry written in C#.
 
-Made using Visual Studio 2015
+Made as an ASP.NET Web Application in Visual Studio 2015.
 
 Available online at: rationaltrigcalc.azurewebsites.net
 
